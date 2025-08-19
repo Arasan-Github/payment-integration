@@ -1,0 +1,24 @@
+{
+  "name": "payment-integration",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Arasan-Github/payment-integration#readme",
+  "bugs": {
+    "url": "https://github.com/Arasan-Github/payment-integration/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arasan-Github/payment-integration.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "razorpay": "^2.9.6"
+  }
+}
